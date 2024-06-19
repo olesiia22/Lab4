@@ -1,0 +1,187 @@
+[
+  {
+    "FirstName": "Chris",
+    "LastName": "Jones",
+    "BirthDate": "2006-07-31T13:45:08.0885747+03:00",
+    "EducationLevel": 0,
+    "Exams": [
+      {
+        "ExamName": "Exam1",
+        "Grade": 94,
+        "ExamDate": "2023-08-28T13:45:08.0967245+03:00"
+      },
+      {
+        "ExamName": "Exam2",
+        "Grade": 86,
+        "ExamDate": "2023-10-31T13:45:08.0969098+02:00"
+      },
+      {
+        "ExamName": "Exam3",
+        "Grade": 77,
+        "ExamDate": "2024-01-02T13:45:08.0969112+02:00"
+      }
+    ]
+  },
+  {
+    "FirstName": "Pat",
+    "LastName": "Garcia",
+    "BirthDate": "2003-08-10T13:45:08.096913+03:00",
+    "EducationLevel": 0,
+    "Exams": [
+      {
+        "ExamName": "Exam1",
+        "Grade": 80,
+        "ExamDate": "2024-03-01T13:45:08.096914+02:00"
+      },
+      {
+        "ExamName": "Exam2",
+        "Grade": 80,
+        "ExamDate": "2024-03-21T13:45:08.0969144+02:00"
+      },
+      {
+        "ExamName": "Exam3",
+        "Grade": 61,
+        "ExamDate": "2023-06-27T13:45:08.0969147+03:00"
+      }
+    ]
+  },
+  {
+    "FirstName": "Chris",
+    "LastName": "Williams",
+    "BirthDate": "2004-10-24T13:45:08.0969149+03:00",
+    "EducationLevel": 2,
+    "Exams": [
+      {
+        "ExamName": "Exam1",
+        "Grade": 67,
+        "ExamDate": "2023-09-17T13:45:08.0969153+03:00"
+      }
+    ]
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Jones",
+    "BirthDate": "2005-01-28T13:45:08.0969156+02:00",
+    "EducationLevel": 0,
+    "Exams": [
+      {
+        "ExamName": "Exam1",
+        "Grade": 66,
+        "ExamDate": "2024-04-16T13:45:08.096921+03:00"
+      },
+      {
+        "ExamName": "Exam2",
+        "Grade": 79,
+        "ExamDate": "2024-04-02T13:45:08.0969214+03:00"
+      }
+    ]
+  },
+  {
+    "FirstName": "Chris",
+    "LastName": "Smith",
+    "BirthDate": "2001-11-25T13:45:08.0969216+02:00",
+    "EducationLevel": 2,
+    "Exams": [
+      {
+        "ExamName": "Exam1",
+        "Grade": 84,
+        "ExamDate": "2024-01-05T13:45:08.0969219+02:00"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jane",
+    "LastName": "Garcia",
+    "BirthDate": "2005-01-22T13:45:08.096923+02:00",
+    "EducationLevel": 1,
+    "Exams": [
+      {
+        "ExamName": "Exam1",
+        "Grade": 91,
+        "ExamDate": "2024-04-25T13:45:08.0969233+03:00"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jane",
+    "LastName": "Brown",
+    "BirthDate": "2001-11-01T13:45:08.0969237+02:00",
+    "EducationLevel": 0,
+    "Exams": [
+      {
+        "ExamName": "Exam1",
+        "Grade": 61,
+        "ExamDate": "2024-05-04T13:45:08.0969239+03:00"
+      },
+      {
+        "ExamName": "Exam2",
+        "Grade": 79,
+        "ExamDate": "2023-10-17T13:45:08.0969243+03:00"
+      }
+    ]
+  },
+  {
+    "FirstName": "Emily",
+    "LastName": "Smith",
+    "BirthDate": "2003-11-24T13:45:08.0969245+02:00",
+    "EducationLevel": 2,
+    "Exams": [
+      {
+        "ExamName": "Exam1",
+        "Grade": 76,
+        "ExamDate": "2024-04-11T13:45:08.0969247+03:00"
+      },
+      {
+        "ExamName": "Exam2",
+        "Grade": 91,
+        "ExamDate": "2024-05-18T13:45:08.096925+03:00"
+      }
+    ]
+  },
+  {
+    "FirstName": "Alex",
+    "LastName": "Johnson",
+    "BirthDate": "2002-01-27T13:45:08.0969253+02:00",
+    "EducationLevel": 0,
+    "Exams": [
+      {
+        "ExamName": "Exam1",
+        "Grade": 88,
+        "ExamDate": "2023-09-13T13:45:08.0969255+03:00"
+      },
+      {
+        "ExamName": "Exam2",
+        "Grade": 92,
+        "ExamDate": "2023-07-06T13:45:08.0969258+03:00"
+      },
+      {
+        "ExamName": "Exam3",
+        "Grade": 86,
+        "ExamDate": "2023-09-26T13:45:08.0969261+03:00"
+      }
+    ]
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Garcia",
+    "BirthDate": "2002-05-16T13:45:08.0969264+03:00",
+    "EducationLevel": 0,
+    "Exams": [
+      {
+        "ExamName": "Exam1",
+        "Grade": 67,
+        "ExamDate": "2023-07-05T13:45:08.0969267+03:00"
+      },
+      {
+        "ExamName": "Exam2",
+        "Grade": 96,
+        "ExamDate": "2024-05-05T13:45:08.096927+03:00"
+      },
+      {
+        "ExamName": "Exam3",
+        "Grade": 96,
+        "ExamDate": "2023-06-28T13:45:08.0969273+03:00"
+      }
+    ]
+  }
+]
